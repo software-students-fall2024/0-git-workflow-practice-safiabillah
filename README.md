@@ -10,4 +10,7 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 This article discusses the declining trend in employment rates for software developers in the U.S. Since 2018, the number of developers has decreased despite their demand surge at the start of the pandemic in 2020. Software developers pay growth has increased over the years, but its growth has lagged behind compared to overall U.S workers. The website also talks about regional pay disparities, like the highest pay being in Silicon Valley, as well as pay growth in areas like Salt Lake City and Orlando.
 
 # Comment On Article - Simon Sherbet
-I'm curious how the pay disparities look when accounting for respective cost of living in each city. Does it become a bit more equitable? Or Does Silicon Valley pay still way exceed the rest? 
+I'm curious how the pay disparities look when accounting for respective cost of living in each city. Does it become a bit more equitable? Or Does Silicon Valley pay still way exceed the rest?
+
+# Rashed Alneyadi
+Nice thought!
